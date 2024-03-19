@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: aquamarine;
+}
+
+.main-container {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.container {
+  margin-top: 10%;
+  display: flex;
+  justify-content: center;
+}
+
+.container button {
+  padding: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+  background-color: rgb(123, 167, 233);
+  border-radius: 5px;
+}
+
+.container h2 {
+  font-size: 2.3rem;
+  margin: 0 10px;
+}
